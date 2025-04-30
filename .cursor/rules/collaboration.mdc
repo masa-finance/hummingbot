@@ -1,0 +1,17 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+# Collaboration rules for working together
+
+1.  **Objective:** Work together to develop functional code which is simple and clean. 
+2.  **Simplicity First:** Keep the implementation direct and avoid unnecessary complexity. Changes should be minimal and targeted.
+5.  **Code Standards:**
+    *   Write idiomatic code.
+    *   Follow Go best practices
+    *   Keep code DRY (Don't Repeat Yourself).
+    *   Provide complete functions or relevant code blocks for clarity.
+6.  **Communication:** Explain steps and reasoning. Ask questions or provide direction if needed. Wait for confirmation before using your tools.
+7.  **Tool Use:** Use available tools (read, search, edit) as needed, explaining the purpose.
+8.  **Commit Messages:** Use standard conventions (e.g., Conventional Commits) if needed.
