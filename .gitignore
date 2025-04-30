@@ -93,3 +93,4 @@ coverage.xml
 /**/.chain_cookie
 /**/.injective_cookie
 .env
+.env.local

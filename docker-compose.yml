@@ -25,10 +25,10 @@ services:
     tty: true
     stdin_open: true
     network_mode: host
-    #  environment:
-    #    - CONFIG_PASSWORD=a
-    #    - CONFIG_FILE_NAME=simple_pmm_example.py
-    #    - SCRIPT_CONFIG=conf_simple_pmm_example.yaml
+    environment:
+        - CONFIG_PASSWORD=${CONFIG_PASSWORD}
+     #   - CONFIG_FILE_NAME=conf_limit_vwap.yaml
+     #   - SCRIPT_CONFIG=conf_limit_vwap.yaml
 
   # gateway:
   #  container_name: gateway
